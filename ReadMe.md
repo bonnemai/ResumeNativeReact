@@ -52,26 +52,28 @@ Implement a Java Based Workflow between Marketers, Traders & Middle Office.
 Managed 12 developers in Paris
 
 Hewlett-Packard							
-Optimization of Discount portfolio				   	   	   Singapore, 2001
+_Optimization of Discount portfolio_				   	   	   Singapore, 2001
 
 Find a way to optimise the discount for each client on a Monthly basis.
 
-Stocks Inventory Optimization					          Boblingen, Germany, 2000
+_Stocks Inventory Optimization_					          Boblingen, Germany, 2000
 
 Optimise the Printer inventory for the wholesalers. 
 
 Egyptian Embassy							
-Data Analysis				   	   					Paris, 1999
+_Data Analysis_				   	   					Paris, 1999
 
 Implementation of a data workflow
 
 Honeywell Garrett							
-Supply Chain Improvement					Thaon-les-Vosges, France, 1999
+_Supply Chain Improvement_					Thaon-les-Vosges, France, 1999
 
 Find a way to improve the supply chain by tracking the root causes of the issues. Implementation of various Dashboards. 
 
 Hospital
-Stretcher-Bearer								     Orleans, France, 1995
+_Stretcher-Bearer_								     Orleans, France, 1995
+
+
 **Technical Skills**
 
 HSBC
