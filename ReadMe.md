@@ -19,7 +19,7 @@ Hong Kong Permanent ID, available under short notice
 **PROFESSIONAL EXPERIENCE**
 
 HSBC 											
-Global Head of Front Office Tools						   Hong Kong, 2017/ 2018
+_Global Head of Front Office Tools_						   Hong Kong, 2017/ 2018
 
 In charge of the Front Office Tools Globally for Equity Derivatives: 20 developers in 5 locations: 
 Risk Visualisation
@@ -35,7 +35,7 @@ Monitor the application
 Support the traders on their day to day activity
 
 JP Morgan 										
-Head of Marking & Analytics Team, APAC				   Hong Kong, 2011/ 2017
+_Head of Marking & Analytics Team, APAC_				   Hong Kong, 2011/ 2017
 
 Developed, Deployed & Support Analytics and Marking platforms to manage Volatility, Dividends, Yield Curves, Position, Risks, Client Analytics (Hit/ Miss, Trade History, Profitability, etc.); rolled out to 1000+ users globally. Adapt the global tools to the local needs. Managed 8 developers in APAC. 
 We achieved to replace hundred of spreadsheets by a Service Oriented Architecture. Visualisation was done through GWT/ HTML5 UI. 
@@ -45,7 +45,7 @@ Head of Rapid Application Development Team APAC		   	   Hong Kong, 2008/ 2011
 Deployed the strategic Risk System in APAC that improved Risk Management for Exotic, Delta One, IRFX & Stock Lending and Borrowing Desks.
 Managed 2 Business Analysts and 15 developers in HK & Tokyo 
 
-Global Head of Structuring Tech							Paris, 2002/ 2008
+_Global Head of Structuring Tech_							Paris, 2002/ 2008
 
 In charge of the Structured Product Pricing Applications: Exotic, Flow, etc.  
 Implement a Java Based Workflow between Marketers, Traders & Middle Office.
@@ -107,10 +107,12 @@ Good understanding of the business needs
 Agile/ Iterative approach
 Hands on Manager, keen to challenge his team technically & functionally 
 Passionate about the Cloud Technologies 
+
+
  **EDUCATION**
 
-ESSEC									
+_ESSEC_									
 Master of Finance									Paris, 2001 / 2002
 
-Ecole des Mines								
+_Ecole des Mines_								
 Master of Engineering							           Nancy, 1998/ 2001
