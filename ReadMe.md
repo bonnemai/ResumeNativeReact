@@ -72,7 +72,7 @@ Find a way to improve the supply chain by tracking the root causes of the issues
 
 Hospital
 Stretcher-Bearer								     Orleans, France, 1995
-Technical Skills
+**Technical Skills**
 
 HSBC
 MongoDB
@@ -107,7 +107,7 @@ Good understanding of the business needs
 Agile/ Iterative approach
 Hands on Manager, keen to challenge his team technically & functionally 
 Passionate about the Cloud Technologies 
- EDUCATION
+ **EDUCATION**
 
 ESSEC									
 Master of Finance									Paris, 2001 / 2002
